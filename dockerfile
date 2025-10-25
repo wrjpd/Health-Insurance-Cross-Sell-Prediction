@@ -8,4 +8,4 @@ COPY . .
 # Install dependencies
 RUN pip install fastapi uvicorn scikit-learn==1.7.1 pydantic category_encoders pandas numpy
 # Run the API
-CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "80"]
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "80"]
