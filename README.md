@@ -1,5 +1,5 @@
 # Health Insurance Cross Sell Prediction
-<img src="assets/shutterstock_373492012-health-insurance-e1491415000969.jpg" alt="Heal Insurance" width="600" height="300">
+<img src="assets/4tels795kwed1.jpeg" alt="Heal Insurance" width="600" height="300">
 
 # 1. Description
   Esse projeto tem o objetivo de treinar um modelo de classificação binária para prever se clientes tem interesse em seguro de veículos de uma empresa utilizando dados do ano anterior.
